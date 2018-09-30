@@ -1,6 +1,6 @@
-## Aplicación de línea de comandos
+## TODO (aplicación línea de comandos)
 
-Este es el ejercicio del curso
+Esta es una aplicación para crear, actualizar, listar y borrar tareas
 
 Recuerden instalar los paquetes de NodeJS
 
